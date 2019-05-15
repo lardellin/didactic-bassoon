@@ -19,8 +19,9 @@ We will be installing *python* and *jupyter-notebook*
   ```
   
   * Mac OS
-Install Homebrew (https://brew.sh/): 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  
+  Install Homebrew (https://brew.sh/): 
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ```brew install python 
 python -m pip install jupyter-notebook numpy scipy pandas
