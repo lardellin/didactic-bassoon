@@ -22,9 +22,9 @@ We will be installing *python* and *jupyter-notebook*
 Install Homebrew (https://brew.sh/): 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew install python 
+```brew install python 
 python -m pip install jupyter-notebook numpy scipy pandas
-
+```
   * Windows
 Install bash shell command-line tool:
  - Open Settings.
