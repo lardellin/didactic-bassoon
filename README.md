@@ -19,25 +19,26 @@ We will be installing *python* and *jupyter-notebook*
   ```
   
   * Mac OS
-Install Homebrew (https://brew.sh/): 
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+  
+  Install Homebrew (https://brew.sh/): 
+  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew install python 
+```brew install python 
 python -m pip install jupyter-notebook numpy scipy pandas
-
+```
   * Windows
 Install bash shell command-line tool:
-- Open Settings.
-- Click on Update & security.
-- Click on For Developers.
-- Under "Use developer features", select the Developer mode option to setup the environment to install Bash.
-- On the message box, click Yes to turn on developer mode.
-- After the necessary components install, you'll need to restart your computer.
-- Once your computer reboots, open Control Panel.
-- Click on Programs.
-- Click on Turn Windows features on or off.
-- Check the Windows Subsystem for Linux (beta) option.
-- Click OK.
-- Restart now
-- run bash.exe
-- Follow Linux instructions 
+ - Open Settings.
+ - Click on Update & security.
+ - Click on For Developers.
+ - Under "Use developer features", select the Developer mode option to setup the environment to install Bash.
+ - On the message box, click Yes to turn on developer mode.
+ - After the necessary components install, you'll need to restart your computer.
+ - Once your computer reboots, open Control Panel.
+ - Click on Programs.
+ - Click on Turn Windows features on or off.
+ - Check the Windows Subsystem for Linux (beta) option.
+ - Click OK.
+ - Restart now
+ - run bash.exe
+ - Follow Linux instructions 
