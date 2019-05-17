@@ -1,5 +1,7 @@
 # This is didactic-bassoon
 
+git@github.com:lardellin/didactic-bassoon.git
+
 Wifi: Gast
 Psw: 123aa999 
 
