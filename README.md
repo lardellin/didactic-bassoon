@@ -1,4 +1,8 @@
 # This is didactic-bassoon
+
+Wifi: Gast
+Psw: 123aa999 
+
 In this tutorial we will answer the question: 'Why should you care about Python?'
 
 * Installing things
