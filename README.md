@@ -5,6 +5,9 @@ git clone git@github.com:lardellin/didactic-bassoon.git
 Wifi: Gast
 Psw: 123aa999 
 
+Wifi: Leo's Phonme
+Psw: numerouno
+
 In this tutorial we will answer the question: 'Why should you care about Python?'
 
 * Installing things
