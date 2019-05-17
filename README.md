@@ -33,7 +33,7 @@ We will be installing *python* and *jupyter-notebook*
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 ```brew install python 
-python -m pip install jupyter-notebook numpy scipy pandas
+python -m pip install jupyter numpy scipy pandas
 ```
   * Windows
 Install bash shell command-line tool:
