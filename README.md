@@ -41,4 +41,4 @@ We will be installing *python* and *jupyter-notebook*
     - run bash.exe
     - Follow Linux instructions 
 
-  or download [Anaconda](https://www.anaconda.com/distribution/)
+  or download [Anaconda](https://www.anaconda.com/distribution/) (simpler way if you don't want to deal with the terminal)
