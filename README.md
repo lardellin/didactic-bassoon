@@ -30,20 +30,10 @@ We will be installing *python* and *jupyter-notebook*
 python -m pip install jupyter numpy scipy pandas
 ```
   * Windows
-Bash shell command-line tool:
- - Open Settings.
- - Click on Update & security.
- - Click on For Developers.
- - Under "Use developer features", select the Developer mode option to setup the environment to install Bash.
- - On the message box, click Yes to turn on developer mode.
- - After the necessary components install, you'll need to restart your computer.
- - Once your computer reboots, open Control Panel.
- - Click on Programs.
- - Click on Turn Windows features on or off.
- - Check the Windows Subsystem for Linux (beta) option.
- - Click OK.
- - Restart now
- - run bash.exe
- - Follow Linux instructions 
+  
+  Bash shell command-line tool (useful to deal with version control):
+   - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
+   - run bash.exe
+   - Follow Linux instructions 
 
-Download [Anaconda](https://www.anaconda.com/distribution/)
+  or download [Anaconda](https://www.anaconda.com/distribution/)
