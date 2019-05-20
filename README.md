@@ -17,16 +17,20 @@ We will be installing *python* and *jupyter-notebook*
   This will install both the python interpreter and pip, which is a
   usefull package manager for python libraries. After this install
   jupyter-notebook, and a couple of python libraries
+  
   ```bash
-  sudo pip3 install jupyter numpy scipy pandas
+  sudo pip3 install jupyter-notebook numpy scipy pandas
   ```
   
   * Mac OS
   
   Install Homebrew (https://brew.sh/): 
+  ```bash
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-
-  ```brew install python 
+  ``` 
+  Install Python:
+  ```bash
+  brew install python 
   python -m pip install jupyter numpy scipy pandas
   ```
   
