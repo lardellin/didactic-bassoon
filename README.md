@@ -33,8 +33,8 @@ We will be installing *python* and *jupyter-notebook*
   * Windows
   
   Bash shell command-line tool (useful to deal with version control):
-   - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
-   - run bash.exe
-   - Follow Linux instructions 
+    - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
+    - run bash.exe
+    - Follow Linux instructions 
 
   or download [Anaconda](https://www.anaconda.com/distribution/)
