@@ -19,7 +19,7 @@ We will be installing *python* and *jupyter-notebook*
   jupyter-notebook, and a couple of python libraries
   
   ```bash
-  sudo pip3 install jupyter-notebook numpy scipy pandas
+  sudo pip3 install jupyter numpy scipy pandas
   ```
   
   * Mac OS
@@ -30,8 +30,8 @@ We will be installing *python* and *jupyter-notebook*
   ``` 
   Install Python:
   ```bash
-  brew install python 
-  python -m pip install jupyter numpy scipy pandas
+  brew install python3 
+  python3 -m pip install jupyter numpy scipy pandas
   ```
   
   * Windows
