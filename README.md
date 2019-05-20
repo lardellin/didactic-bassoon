@@ -26,9 +26,10 @@ We will be installing *python* and *jupyter-notebook*
   Install Homebrew (https://brew.sh/): 
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-```brew install python 
-python -m pip install jupyter numpy scipy pandas
-```
+  ```brew install python 
+  python -m pip install jupyter numpy scipy pandas
+  ```
+  
   * Windows
   
   Bash shell command-line tool (useful to deal with version control):
