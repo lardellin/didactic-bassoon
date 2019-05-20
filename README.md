@@ -30,7 +30,7 @@ We will be installing *python* and *jupyter-notebook*
   ``` 
   Install Python:
   ```bash
-  brew install python3 pip3
+  brew install python3
   python3 -m pip install jupyter numpy scipy pandas
   ```
   
