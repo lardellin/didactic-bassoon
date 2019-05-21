@@ -39,9 +39,12 @@ We will be installing *python* and *jupyter-notebook*
   * Windows
   
   Bash shell command-line tool (useful to work with version control):
-    - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
-    - run bash.exe
-    - Follow Linux instructions (if installation of jupyter fails you may need to)
+  
+   - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
+   - run bash.exe
+   - Install git 
+    sudo apt install git 
+   - Follow Linux instructions (if installation of jupyter fails you may need to)
     
     sudo pip3 install --upgrade setuptools
 
