@@ -43,8 +43,6 @@ We will be installing *python* and *jupyter-notebook*
     - run bash.exe
     - Follow Linux instructions (if installation of jupyter fails you may need to)
     
-    ```bash
     sudo pip3 install --upgrade setuptools
-    ```
 
   or download [Anaconda](https://www.anaconda.com/distribution/) (simpler way if you don't want to deal with the terminal)
