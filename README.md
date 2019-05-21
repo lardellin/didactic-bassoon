@@ -11,7 +11,7 @@ In this tutorial we will answer the question: 'Why should you care about Python?
 We will be installing *python* and *jupyter-notebook*
   * Linux
   
-  Depending on your favorite distro run
+  Depending on your favorite distro run on the terminal 
   
   ```bash 
   sudo [apt install / yum install / pacman -S ] 
@@ -27,7 +27,7 @@ We will be installing *python* and *jupyter-notebook*
   
   * Mac OS
   
-  Install Homebrew (https://brew.sh/): 
+  Install Homebrew (https://brew.sh/) from the terminal:
   ```bash
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ``` 
