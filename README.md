@@ -2,7 +2,7 @@
 
 without ssh-key: `git clone https://github.com/lardellin/didactic-bassoon.git`
 
-over ssh (see [how to generate ssh-key](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)): `git clone git@github.com:lardellin/didactic-bassoon.git`
+over ssh (see how to [generate](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key) and [add](https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account) a ssh-key): `git clone git@github.com:lardellin/didactic-bassoon.git`
 
 In this tutorial we will answer the question: 'Why should you care about Python?'
 
