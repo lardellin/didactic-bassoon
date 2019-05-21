@@ -30,6 +30,7 @@ We will be installing *python* and *jupyter-notebook*
   /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
   ``` 
   Install Python (pip should be installed automatically):
+  
   ```bash
   brew install python3
   python3 -m pip install jupyter numpy scipy pandas
@@ -42,7 +43,7 @@ We will be installing *python* and *jupyter-notebook*
     - run bash.exe
     - Follow Linux instructions (if installation of jupyter fails you may need to)
     
-    ```
+    ```bash
     sudo pip3 install --upgrade setuptools
     ```
 
