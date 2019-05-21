@@ -5,6 +5,7 @@ git clone git@github.com:lardellin/didactic-bassoon.git
 In this tutorial we will answer the question: 'Why should you care about Python?'
 
 * Installing things
+
 We will be installing *python* and *jupyter-notebook*
   * Linux
   
