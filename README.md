@@ -1,10 +1,8 @@
 # This is didactic-bassoon
 
-without ssh-key:
-git clone https://github.com/lardellin/didactic-bassoon.git
+without ssh-key: `git clone https://github.com/lardellin/didactic-bassoon.git`
 
-with ssh-key (see how to add ssh-key)
-git clone git@github.com:lardellin/didactic-bassoon.git
+with ssh-key (see how to add ssh-key): `git clone git@github.com:lardellin/didactic-bassoon.git`
 
 In this tutorial we will answer the question: 'Why should you care about Python?'
 
