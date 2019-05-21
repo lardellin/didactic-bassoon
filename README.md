@@ -42,7 +42,7 @@ We will be installing *python* and *jupyter-notebook*
     - run bash.exe
     - Follow Linux instructions (if installation of jupyter fails you may need to)
     
-    ```bash 
+    ```
     sudo pip3 install --upgrade setuptools
     ```
 
