@@ -43,6 +43,11 @@ We will be installing *python* and *jupyter-notebook*
   Bash shell command-line tool (useful to work with version control):
   
    - Install [bash shell](https://www.youtube.com/watch?v=Cvrqmq9A3tA&t=24s)
+     1) Settings -> For Developers -> Activate Developer Mode
+     2) Control Panel -> Programs -> Turn Windows Features On and Off -> Activate Windows Subsystem for Linux 
+     3) Reboot
+     4) Open Microsoft Store -> Search Ubuntu -> Install Ubuntu Canonical Group -> Click Launch
+     5) Give Username and Password
    - run bash.exe
    - Install git `sudo apt install git` 
    - Follow Linux instructions (if installation of jupyter fails you may need to `sudo pip3 install --upgrade setuptools`)
