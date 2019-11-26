@@ -49,6 +49,7 @@ We will be installing *python* and *jupyter-notebook*
      4) Open Microsoft Store -> Search Ubuntu -> Install Ubuntu Canonical Group -> Click Launch
      5) Give Username and Password
    - run bash.exe
+   - Update and upgrade `sudo apt update` `sudo apt upgrade`
    - Install git `sudo apt install git` 
    - Follow Linux instructions (if installation of jupyter fails you may need to `sudo pip3 install --upgrade setuptools`)
 
